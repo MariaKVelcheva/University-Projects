@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d737742-0446-4a27-bb9b-d811ba36250d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicApp/albums/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/albums/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicApp/albums/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/albums/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicApp/common/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/common/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicApp/common/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/common/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicApp/profiles/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/profiles/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicApp/profiles/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/profiles/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/album/album-add.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/album/album-add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/album/album-delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/album/album-delete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/album/album-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/album/album-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/album/album-edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/album/album-edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/profile/home-no-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/profile/home-no-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/profile/home-with-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/profile/home-with-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/profile/profile-delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/profile/profile-delete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/profile/profile-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/profile/profile-details.html" afterDir="false" />
-    </list>
+    <list default="true" id="8d737742-0446-4a27-bb9b-d811ba36250d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1769343094611</updated>
-      <workItem from="1769343096003" duration="2125000" />
+      <workItem from="1769343096003" duration="2468000" />
     </task>
     <servers />
   </component>
