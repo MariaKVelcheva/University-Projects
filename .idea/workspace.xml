@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d737742-0446-4a27-bb9b-d811ba36250d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/caller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicApp/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicApp/albums/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/albums/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicApp/albums/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/albums/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicApp/albums/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/albums/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicApp/albums/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/albums/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicApp/common/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/common/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicApp/common/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/common/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicApp/profiles/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/profiles/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicApp/profiles/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/profiles/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicApp/profiles/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/profiles/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/album/album-add.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/album/album-add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/album/album-delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/album/album-delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/album/album-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/album/album-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/album/album-edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/album/album-edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/common/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/profile/home-no-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/home-no-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/profile/home-with-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/home-with-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/profile/profile-delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/profile/profile-delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/profile/profile-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/profile/profile-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +61,7 @@
     &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -65,8 +78,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\33758\Desktop\new_project\musicApp\templates\profile" />
       <recent name="C:\Users\33758\Desktop\new_project\musicApp\templates\common" />
+      <recent name="C:\Users\33758\Desktop\new_project\musicApp\templates\profile" />
       <recent name="C:\Users\33758\Desktop\new_project\musicApp\templates\album" />
       <recent name="C:\Users\33758\Desktop\new_project\musicApp\musicApp" />
       <recent name="C:\Users\33758\Desktop\new_project\musicApp\static\images" />
@@ -118,7 +131,11 @@
       <workItem from="1769343096003" duration="3213000" />
       <workItem from="1769531077805" duration="2489000" />
       <workItem from="1769621431162" duration="8000" />
-      <workItem from="1769621450956" duration="993000" />
+      <workItem from="1769621450956" duration="2377000" />
+      <workItem from="1769628852714" duration="672000" />
+      <workItem from="1769629782590" duration="1851000" />
+      <workItem from="1769695840215" duration="761000" />
+      <workItem from="1769700894082" duration="4252000" />
     </task>
     <servers />
   </component>
