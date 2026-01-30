@@ -5,25 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d737742-0446-4a27-bb9b-d811ba36250d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/caller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/musicApp/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c3d53712-1e26-497a-a6b0-79873b05e2b9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c3d53712-1e26-497a-a6b0-79873b05e2b9.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicApp/albums/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/albums/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicApp/albums/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/albums/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicApp/albums/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/albums/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicApp/albums/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/albums/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicApp/common/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/common/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicApp/profiles/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/profiles/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicApp/profiles/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/profiles/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicApp/profiles/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/profiles/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicApp/profiles/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp/profiles/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/album/album-add.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/album/album-add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/album/album-delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/album/album-delete.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/album/album-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/album/album-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/album/album-edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/album/album-edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/common/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/profile/home-no-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/home-no-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/profile/home-with-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/home-with-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/common/home-no-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/home-no-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/common/home-with-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/home-with-profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/profile/profile-delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/profile/profile-delete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/profile/profile-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/profile/profile-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +131,8 @@
       <workItem from="1769628852714" duration="672000" />
       <workItem from="1769629782590" duration="1851000" />
       <workItem from="1769695840215" duration="761000" />
-      <workItem from="1769700894082" duration="4252000" />
+      <workItem from="1769700894082" duration="5171000" />
+      <workItem from="1769790720095" duration="3067000" />
     </task>
     <servers />
   </component>

@@ -33,10 +33,6 @@ class AlbumBaseForm(forms.ModelForm):
                 'placeholder': 'Description'
             }),
 
-            'image_url': forms.URLField(attrs={
-                'placeholder': 'Image URL'
-            }),
-
             'price': forms.NumberInput(attrs={
                 'placeholder': 'Price'
             })

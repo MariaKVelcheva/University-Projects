@@ -15,8 +15,3 @@ class ProfileCreateForm(ProfileBaseForm):
 
 class ProfileEditForm(ProfileBaseForm):
     pass
-
-
-class ProfileDeleteForm(ProfileBaseForm):
-    pass
-

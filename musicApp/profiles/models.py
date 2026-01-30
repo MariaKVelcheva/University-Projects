@@ -18,3 +18,6 @@ class Profile(models.Model):
         blank=True,
         validators=[MinValueValidator(13),]
     )
+
+    def __str__(self):
+        return self.username

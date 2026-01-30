@@ -11,16 +11,12 @@
             <img src="{% static 'images/musicIcons.webp' %}" alt="music-icon" />
           </div>
         </section>
-
-        <!-- Registration -->
         <section id="registerPage">
           <form method="post">
             <fieldset>
               <legend>Profile</legend>
-              <!-- Form for Registration -->
              {% csrf_token %}
-                {{ form.as_p }}
-              <!-- Button to Create Profile -->
+                {{ form }}
               <button type="submit" class="register">Enter</button>
             </fieldset>
           </form>

@@ -19,12 +19,28 @@ class AlbumAddView(CreateView):
 
 
 class AlbumDetailView(DetailView):
-    pass
+    model = Album
+    template_name = 'album/album-details.html'
+    pk_url_kwarg = 'id'
 
 
 class AlbumEditView(UpdateView):
-    pass
+    model = Album
+    form_class = AlbumEditForm
+    template_name = 'album/album-edit.html'
+    pk_url_kwarg = 'id'
+    success_url = reverse_lazy('home')
 
 
 class AlbumDeleteView(DeleteView):
-    pass
+    model = Album
+    form_class = AlbumDeleteForm
+    template_name = 'album/album-delete.html'
+    pk_url_kwarg = 'id'
+    success_url = reverse_lazy('home')
+
+    def get_initial(self):
+        return self.object.__dict__
+
+    def form_invalid(self, form):
+        return self.form_valid(form)
